@@ -1,0 +1,12 @@
+# Terraform
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
+
+# Lambda ZIPs
+*.zip
+
+# AWS Credentials / Env
+*.env
+aws_credentials

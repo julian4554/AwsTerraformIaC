@@ -6,7 +6,7 @@ Die gesamte Infrastruktur ist als Code definiert und mit einem Befehl reproduzie
 
 ## Architektur
 
-![Architekturdiagramm der AWS-Infrastruktur](docs/architektur.png)
+![Architekturdiagramm der AWS-Infrastruktur](Architektur.png)
 
 
 

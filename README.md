@@ -4,6 +4,9 @@ Vollständig per **Terraform** bereitgestellte Serverless-Webanwendung auf AWS:
 statisches Frontend über CloudFront, dahinter eine REST-API mit Lambda und DynamoDB.
 Die gesamte Infrastruktur ist als Code definiert und mit einem Befehl reproduzierbar.
 
+Note: 1.0
+
+![Note Uni](noteCloud.png)
 ## Architektur
 
 ![Architekturdiagramm der AWS-Infrastruktur](Architektur.png)
